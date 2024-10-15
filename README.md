@@ -59,7 +59,7 @@ The dashboard presents a variety of visualizations, including:
 
 # Visualizations
 Dashboard:
-![Screenshot 2024-10-08 213743](https://github.com/user-attachments/assets/a843c18d-a29a-41eb-abde-5ea03ffc0990)
+![Screenshot 2024-10-15 141403](https://github.com/user-attachments/assets/2d9c2657-63c5-4145-b5f6-a13789dfbdd1)
 
 
 # Technologies Used
